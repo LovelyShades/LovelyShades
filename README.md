@@ -20,16 +20,6 @@
 
 ---
 
-## ✨ About Me
-
-I’m a Computer Science student passionate about building:
-
-🌐 Interactive web applications  
-🤖 AI-powered systems  
-🗄️ Structured database architectures  
-☁️ Cloud-deployed projects  
-🎮 Unity simulations & gameplay systems  
-
 🎥 **Project Demo Playlist:**  
 https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 
