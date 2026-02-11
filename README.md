@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B0082">
   </a>
   <a href="https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2">
-    <img src="https://img.shields.io/badge/Project-Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/Project%20Demos-6C63FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=4B0082">
   </a>
 </p>
 
@@ -20,40 +20,40 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white&labelColor=4B0082)
+![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4B0082)
+![TypeScript](https://img.shields.io/badge/TypeScript-6C63FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=4B0082)
+![Java](https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=4B0082)
+![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4B0082)
 
 ---
 
 ### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white&labelColor=4B0082)
+![Vite](https://img.shields.io/badge/Vite-6C63FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=4B0082)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6C63FF?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=4B0082)
 
 ---
 
 ### 🗄️ Backend / Data  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=4B0082)
+![Supabase](https://img.shields.io/badge/Supabase-6C63FF?style=for-the-badge&logo=supabase&logoColor=white&labelColor=4B0082)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4B0082)
+![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4B0082)
 
 ---
 
 ### 🤖 AI / ML  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4B0082)
+![OpenAI](https://img.shields.io/badge/OpenAI-6C63FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=4B0082)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-6C63FF?style=for-the-badge&labelColor=4B0082)
 
 ---
 
 ### ☁️ Cloud / DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B0082)
+![Linux](https://img.shields.io/badge/Linux-6C63FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=4B0082)
+![Nginx](https://img.shields.io/badge/Nginx-6C63FF?style=for-the-badge&logo=nginx&logoColor=white&labelColor=4B0082)
 
 ---
 
@@ -167,7 +167,6 @@ Stealth-chaos simulation
 https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 
 ---
-
 
 ## 📊 GitHub Stats
 
