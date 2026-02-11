@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Alanna Matundan 👋</h1>
 
 <p align="center">
-💻 Computer Science Student @ UTSA <br>
-☁️ Aspiring Software / Cloud Engineer <br>
-🎮 Web · AI · Interactive Systems
+💜 Computer Science Student @ UTSA <br>
+💙 Aspiring Software / Cloud Engineer <br>
+🫐 Web · AI · Interactive Systems
 </p>
 
 <p align="center">
@@ -17,9 +17,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💜 About Me
 
-### 💻 Languages  
+I’m a Computer Science student passionate about building:
+
+🔮 Interactive web applications  
+🧿 AI-powered systems  
+💠 Structured database architectures  
+☂️ Cloud-deployed projects  
+🌀 Unity simulations & gameplay systems  
+
+🎥 **Full Project Demo Playlist:**  
+https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
+
+---
+
+## 💙 Tech Stack
+
+### 🫐 Languages  
 ![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white&labelColor=4B0082)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4B0082)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6C63FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=4B0082)
@@ -28,38 +43,38 @@
 
 ---
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white&labelColor=4B0082)
+### 💜 Frontend  
+![React](https://img.shields.io/badge/React-5B5FFF?style=for-the-badge&logo=react&logoColor=white&labelColor=312E81)
 ![Vite](https://img.shields.io/badge/Vite-6C63FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=4B0082)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6C63FF?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=4B0082)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-7C7CFF?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=4338CA)
 
 ---
 
-### 🗄️ Backend / Data  
+### 💠 Backend / Data  
 ![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=4B0082)
-![Supabase](https://img.shields.io/badge/Supabase-6C63FF?style=for-the-badge&logo=supabase&logoColor=white&labelColor=4B0082)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4B0082)
+![Supabase](https://img.shields.io/badge/Supabase-5B5FFF?style=for-the-badge&logo=supabase&logoColor=white&labelColor=312E81)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C7CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4338CA)
 ![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4B0082)
 
 ---
 
-### 🤖 AI / ML  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4B0082)
+### 🔮 AI / ML  
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-5B5FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=312E81)
 ![OpenAI](https://img.shields.io/badge/OpenAI-6C63FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=4B0082)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-6C63FF?style=for-the-badge&labelColor=4B0082)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-7C7CFF?style=for-the-badge&labelColor=4338CA)
 
 ---
 
-### ☁️ Cloud / DevOps  
+### ☂️ Cloud / DevOps  
 ![AWS](https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B0082)
-![Linux](https://img.shields.io/badge/Linux-6C63FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=4B0082)
-![Nginx](https://img.shields.io/badge/Nginx-6C63FF?style=for-the-badge&logo=nginx&logoColor=white&labelColor=4B0082)
+![Linux](https://img.shields.io/badge/Linux-5B5FFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=312E81)
+![Nginx](https://img.shields.io/badge/Nginx-7C7CFF?style=for-the-badge&logo=nginx&logoColor=white&labelColor=4338CA)
 
 ---
 
-## 🚀 Featured Projects
+## 💜 Featured Projects
 
-### 🛒 Hearts & Pages Bookstore
+### 🔮 Hearts & Pages Bookstore
 
 <table>
 <tr>
@@ -72,7 +87,8 @@ Full-stack e-commerce platform
 - Admin dashboard  
 - Relational database design  
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=Re56C-EuaT4)
+🎥 **Watch Demo:**  
+https://www.youtube.com/watch?v=Re56C-EuaT4
 
 </td>
 <td width="40%" align="center">
@@ -85,7 +101,7 @@ Full-stack e-commerce platform
 
 ---
 
-### 🎮 Rivaldle – Web Guessing Game
+### 🌀 Rivaldle – Web Guessing Game
 
 <table>
 <tr>
@@ -98,7 +114,8 @@ Production AWS deployment
 - Daily challenges  
 - 61k+ monthly users  
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=TgRu_6LoCtQ)
+🎥 **Watch Demo:**  
+https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 </td>
 <td width="40%" align="center">
@@ -111,7 +128,7 @@ Production AWS deployment
 
 ---
 
-### 🤖 AI Tech Interview Coach
+### 🧿 AI Tech Interview Coach
 
 <table>
 <tr>
@@ -124,7 +141,8 @@ AI-powered interview preparation
 - Streaming evaluation  
 - Modular TypeScript UI  
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=JQwXc9wWWIs)
+🎥 **Watch Demo:**  
+https://www.youtube.com/watch?v=JQwXc9wWWIs
 
 </td>
 <td width="40%" align="center">
@@ -137,7 +155,7 @@ AI-powered interview preparation
 
 ---
 
-### 🐈 Cat Café Chaos (Unity)
+### 💠 Cat Café Chaos (Unity)
 
 <table>
 <tr>
@@ -150,7 +168,8 @@ Stealth-chaos simulation
 - Chaos mechanics  
 - Event-driven gameplay  
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=jvDDeLSpqqk)
+🎥 **Watch Demo:**  
+https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
 <td width="40%" align="center">
@@ -163,12 +182,7 @@ Stealth-chaos simulation
 
 ---
 
-🎥 **Full Project Demo Playlist:**  
-https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
-
----
-
-## 📊 GitHub Stats
+## 💙 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LovelyShades&show_icons=true&theme=tokyonight&hide_border=true" height="165">
@@ -181,14 +195,14 @@ https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 
 ---
 
-## 💖 Beyond Coding
+## 💜 Beyond Coding
 
 📺 YouTube Content Creator  
 🎥 40+ tutorials · 3.1M+ views · 14k+ subscribers  
 
 ---
 
-## 📫 Connect With Me
+## 💙 Connect With Me
 
 📍 New Braunfels, TX  
 📧 rosealanna18@gmail.com  
