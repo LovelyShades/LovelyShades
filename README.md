@@ -30,6 +30,9 @@ I’m a Computer Science student passionate about building:
 ☁️ Cloud-deployed projects  
 🎮 Unity simulations & gameplay systems  
 
+🎥 **Project Demo Playlist:**  
+https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
+
 ---
 
 ## 🛠️ Tech Stack
@@ -74,53 +77,107 @@ I’m a Computer Science student passionate about building:
 
 ## 🚀 Featured Projects
 
----
+### 🛒 Hearts & Pages Bookstore
 
-### 🛒 Hearts & Pages Bookstore  
-Full-stack e-commerce platform  
+<table>
+<tr>
+<td width="60%">
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=Re56C-EuaT4)
+Full-stack e-commerce platform
 
 - React + Supabase  
 - Auth, cart, checkout system  
 - Admin dashboard  
 - Relational database design  
 
+[🎥 Watch Demo](https://www.youtube.com/watch?v=Re56C-EuaT4)
+
+</td>
+<td width="40%" align="center">
+  <a href="https://www.youtube.com/watch?v=Re56C-EuaT4">
+    <img src="https://img.youtube.com/vi/Re56C-EuaT4/hqdefault.jpg" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🎮 Rivaldle – Web Guessing Game  
-Production AWS deployment  
+### 🎮 Rivaldle – Web Guessing Game
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=TgRu_6LoCtQ)
+<table>
+<tr>
+<td width="60%">
+
+Production AWS deployment
 
 - AWS EC2 + Route 53  
 - Multiple game modes  
 - Daily challenges  
 - 61k+ monthly users  
 
+[🎥 Watch Demo](https://www.youtube.com/watch?v=TgRu_6LoCtQ)
+
+</td>
+<td width="40%" align="center">
+  <a href="https://www.youtube.com/watch?v=TgRu_6LoCtQ">
+    <img src="https://img.youtube.com/vi/TgRu_6LoCtQ/hqdefault.jpg" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🤖 AI Tech Interview Coach  
-AI-powered interview preparation  
+### 🤖 AI Tech Interview Coach
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=JQwXc9wWWIs)
+<table>
+<tr>
+<td width="60%">
+
+AI-powered interview preparation
 
 - OpenAI API integration  
 - Live voice interviews  
 - Streaming evaluation  
 - Modular TypeScript UI  
 
+[🎥 Watch Demo](https://www.youtube.com/watch?v=JQwXc9wWWIs)
+
+</td>
+<td width="40%" align="center">
+  <a href="https://www.youtube.com/watch?v=JQwXc9wWWIs">
+    <img src="https://img.youtube.com/vi/JQwXc9wWWIs/hqdefault.jpg" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🐈 Cat Café Chaos (Unity)  
-Stealth-chaos simulation  
+### 🐈 Cat Café Chaos (Unity)
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=jvDDeLSpqqk)
+<table>
+<tr>
+<td width="60%">
+
+Stealth-chaos simulation
 
 - NPC AI state machines  
 - NavMesh pathfinding  
 - Chaos mechanics  
 - Event-driven gameplay  
+
+[🎥 Watch Demo](https://www.youtube.com/watch?v=jvDDeLSpqqk)
+
+</td>
+<td width="40%" align="center">
+  <a href="https://www.youtube.com/watch?v=jvDDeLSpqqk">
+    <img src="https://img.youtube.com/vi/jvDDeLSpqqk/hqdefault.jpg" width="100%">
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -137,7 +194,6 @@ Stealth-chaos simulation
 
 ---
 
-
 ## 💖 Beyond Coding
 
 📺 YouTube Content Creator  
@@ -148,4 +204,6 @@ Stealth-chaos simulation
 ## 📫 Connect With Me
 
 📍 New Braunfels, TX  
-📧 rosealanna18@gmail.co
+📧 rosealanna18@gmail.com  
+🔗 https://linkedin.com/in/alanna-matundan  
+💻 https://github.com/LovelyShades
