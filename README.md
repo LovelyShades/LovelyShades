@@ -20,11 +20,6 @@
 
 ---
 
-🎥 **Project Demo Playlist:**  
-https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
@@ -170,6 +165,12 @@ Stealth-chaos simulation
 </table>
 
 ---
+
+🎥 **Full Project Demo Playlist:**  
+https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
+
+---
+
 
 ## 📊 GitHub Stats
 
