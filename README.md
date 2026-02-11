@@ -8,10 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/LovelyShades">
-    <img src="https://img.shields.io/badge/GitHub-Project Demos-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2">
+    <img src="https://img.shields.io/badge/Project-Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
