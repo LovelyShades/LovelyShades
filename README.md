@@ -198,7 +198,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
 <td width="40%" valign="middle" align="right">
-  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="220">
+  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="100%">
 </td>
 </tr>
 </table>
