@@ -2,17 +2,6 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-<!-- Optional header block (kept commented, clean) -->
-<!--
-<h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
-
-<p align="center">
-💻 Computer Science Student @ UTSA <br>
-☁️ Aspiring Software / Cloud Engineer <br>
-🐸 Web · AI · Interactive Systems
-</p>
--->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
     <img src="https://img.shields.io/badge/LinkedIn-7FA9B2?style=for-the-badge&logo=linkedin&logoColor=2E3A3A&labelColor=BFDFFF">
@@ -22,7 +11,6 @@
   </a>
 </p>
 
-<!-- GLOWING DIVIDER (consistent: always gradient) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=4"/>
 </p>
@@ -65,7 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-C2CFB7?style=for-the-badge&logo=linux&logoColor=2E3A3A&labelColor=E8F5EC)
 ![Nginx](https://img.shields.io/badge/Nginx-7FA9B2?style=for-the-badge&logo=nginx&logoColor=2E3A3A&labelColor=BFDFFF)
 
-<!-- GLOWING DIVIDER (same style) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A3CFC4,100:7FA9B2&height=4"/>
 </p>
@@ -74,7 +61,7 @@
 
 ### 📖 Hearts & Pages Bookstore
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
@@ -89,7 +76,7 @@ Full-stack e-commerce platform
 https://www.youtube.com/watch?v=Re56C-EuaT4
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
   <a href="https://www.youtube.com/watch?v=Re56C-EuaT4">
     <img src="https://img.youtube.com/vi/Re56C-EuaT4/hqdefault.jpg" width="100%">
   </a>
@@ -101,7 +88,7 @@ https://www.youtube.com/watch?v=Re56C-EuaT4
 
 ### 💻 Rivaldle – Web Guessing Game
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
@@ -116,7 +103,7 @@ Cloud-deployed web game
 https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
   <a href="https://www.youtube.com/watch?v=TgRu_6LoCtQ">
     <img src="https://img.youtube.com/vi/TgRu_6LoCtQ/hqdefault.jpg" width="100%">
   </a>
@@ -128,7 +115,7 @@ https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 ### 🎙️ AI Tech Interview Coach
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
@@ -143,7 +130,7 @@ AI-powered interview preparation
 https://www.youtube.com/watch?v=JQwXc9wWWIs
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
   <a href="https://www.youtube.com/watch?v=JQwXc9wWWIs">
     <img src="https://img.youtube.com/vi/JQwXc9wWWIs/hqdefault.jpg" width="100%">
   </a>
@@ -155,7 +142,7 @@ https://www.youtube.com/watch?v=JQwXc9wWWIs
 
 ### 🎮 Cat Café Chaos (Unity)
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
@@ -170,7 +157,7 @@ Stealth-chaos simulation
 https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
   <a href="https://www.youtube.com/watch?v=jvDDeLSpqqk">
     <img src="https://img.youtube.com/vi/jvDDeLSpqqk/hqdefault.jpg" width="100%">
   </a>
@@ -178,7 +165,6 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 </tr>
 </table>
 
-<!-- GLOWING DIVIDER (same style) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=4"/>
 </p>
@@ -200,8 +186,8 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ## 📱 Connect With Me!
 
-<!-- Match project-box sizing + push GIF to FAR RIGHT -->
-<table>
+<!-- FULL-WIDTH TABLE + GIF HARD-RIGHT -->
+<table width="100%">
 <tr>
 <td width="60%" valign="middle">
 
@@ -211,14 +197,12 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 🐸 <a href="https://github.com/LovelyShades">GitHub</a>
 
 </td>
-
-<td width="40%" align="right" valign="middle">
-  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="185">
+<td width="40%" valign="middle" align="right">
+  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="220">
 </td>
 </tr>
 </table>
 
-<!-- Footer wave (glowing + consistent) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=180&section=footer"/>
 </p>
