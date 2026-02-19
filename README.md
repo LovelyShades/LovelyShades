@@ -187,20 +187,13 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ---
 
-## 📱 Connect With Me
+## 📱 Let's Connect
 <table> <tr> <td width="65%" valign="middle">
 
-📍 <b>New Braunfels, TX</b><br><br>
+📍 <b>New Braunfels, TX</b><br>
+📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com</a><br>
+🌿 <a href="https://linkedin.com/in/alanna-matundan">LinkedIn</a><br>
+🐸 <a href="https://github.com/LovelyShades">GitHub</a>
 
-📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com
-</a><br><br>
-
-🌿 <a href="https://linkedin.com/in/alanna-matundan">
-linkedin.com/in/alanna-matundan
-</a><br><br>
-
-🐸 <a href="https://github.com/LovelyShades">
-github.com/LovelyShades
-</a>
 
 </td> <td width="35%" align="center" valign="middle"> <img src="https://github.com/user-attachments/assets/2d2484e4-a905-4e42-b09b-d287ed58567f" width="185"> </td> </tr> </table>
