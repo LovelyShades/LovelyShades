@@ -2,16 +2,16 @@
 
 <p align="center">
 🌿 Computer Science Student @ UTSA <br>
-💧 Aspiring Software / Cloud Engineer <br>
-🐸 Web · AI · Interactive Systems
+☁️ Aspiring Software / Cloud Engineer <br>
+💧 Web · AI · Interactive Systems
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
-    <img src="https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=1F4D4D&labelColor=BFDFFF">
+    <img src="https://img.shields.io/badge/LinkedIn-668A92?style=for-the-badge&logo=linkedin&logoColor=2E3A3A&labelColor=88AEAE">
   </a>
   <a href="https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2">
-    <img src="https://img.shields.io/badge/Project%20Demos-A8E6CF?style=for-the-badge&logo=youtube&logoColor=1F4D4D&labelColor=CFF5F0">
+    <img src="https://img.shields.io/badge/Project%20Demos-8EB1A3?style=for-the-badge&logo=youtube&logoColor=2E3A3A&labelColor=BED4BA">
   </a>
 </p>
 
@@ -35,40 +35,40 @@ https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 ## 💧 Tech Stack
 
 ### 🐸 Languages  
-![Python](https://img.shields.io/badge/Python-A7C7E7?style=for-the-badge&logo=python&logoColor=1F4D4D&labelColor=BFDFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-A8E6CF?style=for-the-badge&logo=javascript&logoColor=1F4D4D&labelColor=CFF5F0)
-![TypeScript](https://img.shields.io/badge/TypeScript-BFDFFF?style=for-the-badge&logo=typescript&logoColor=1F4D4D&labelColor=EAF6FF)
-![Java](https://img.shields.io/badge/Java-BEE7C5?style=for-the-badge&logo=openjdk&logoColor=1F4D4D&labelColor=E8F5EC)
-![SQL](https://img.shields.io/badge/SQL-9ADDD0?style=for-the-badge&logo=postgresql&logoColor=1F4D4D&labelColor=CFF5F0)
+![Python](https://img.shields.io/badge/Python-688C88?style=for-the-badge&logo=python&logoColor=2E3A3A&labelColor=92AD9E)
+![JavaScript](https://img.shields.io/badge/JavaScript-83AFA7?style=for-the-badge&logo=javascript&logoColor=2E3A3A&labelColor=AED3BE)
+![TypeScript](https://img.shields.io/badge/TypeScript-658D8C?style=for-the-badge&logo=typescript&logoColor=2E3A3A&labelColor=8EB1A3)
+![Java](https://img.shields.io/badge/Java-97A796?style=for-the-badge&logo=openjdk&logoColor=2E3A3A&labelColor=C7C6B2)
+![SQL](https://img.shields.io/badge/SQL-668A92?style=for-the-badge&logo=postgresql&logoColor=2E3A3A&labelColor=88AEAE)
 
 ---
 
 ### 🌿 Frontend  
-![React](https://img.shields.io/badge/React-BFDFFF?style=for-the-badge&logo=react&logoColor=1F4D4D&labelColor=EAF6FF)
-![Vite](https://img.shields.io/badge/Vite-A8E6CF?style=for-the-badge&logo=vite&logoColor=1F4D4D&labelColor=CFF5F0)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9ADDD0?style=for-the-badge&logo=tailwind-css&logoColor=1F4D4D&labelColor=CFF5F0)
+![React](https://img.shields.io/badge/React-92AD9E?style=for-the-badge&logo=react&logoColor=2E3A3A&labelColor=C2CFB7)
+![Vite](https://img.shields.io/badge/Vite-8EB1A3?style=for-the-badge&logo=vite&logoColor=2E3A3A&labelColor=BED4BA)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-60C8CF?style=for-the-badge&logo=tailwind-css&logoColor=2E3A3A&labelColor=83AFA7)
 
 ---
 
 ### 💧 Backend / Data  
-![Node.js](https://img.shields.io/badge/Node.js-A7C7E7?style=for-the-badge&logo=nodedotjs&logoColor=1F4D4D&labelColor=BFDFFF)
-![Supabase](https://img.shields.io/badge/Supabase-A8E6CF?style=for-the-badge&logo=supabase&logoColor=1F4D4D&labelColor=CFF5F0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BFDFFF?style=for-the-badge&logo=postgresql&logoColor=1F4D4D&labelColor=EAF6FF)
-![MySQL](https://img.shields.io/badge/MySQL-BEE7C5?style=for-the-badge&logo=mysql&logoColor=1F4D4D&labelColor=E8F5EC)
+![Node.js](https://img.shields.io/badge/Node.js-688881?style=for-the-badge&logo=nodedotjs&logoColor=2E3A3A&labelColor=97A796)
+![Supabase](https://img.shields.io/badge/Supabase-83AFA7?style=for-the-badge&logo=supabase&logoColor=2E3A3A&labelColor=AED3BE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-658D8C?style=for-the-badge&logo=postgresql&logoColor=2E3A3A&labelColor=8EB1A3)
+![MySQL](https://img.shields.io/badge/MySQL-92AD9E?style=for-the-badge&logo=mysql&logoColor=2E3A3A&labelColor=C2CFB7)
 
 ---
 
 ### 🐸 AI / ML  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-BFDFFF?style=for-the-badge&logo=tensorflow&logoColor=1F4D4D&labelColor=EAF6FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-A8E6CF?style=for-the-badge&logo=openai&logoColor=1F4D4D&labelColor=CFF5F0)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-9ADDD0?style=for-the-badge&logoColor=1F4D4D&labelColor=CFF5F0)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-668A92?style=for-the-badge&logo=tensorflow&logoColor=2E3A3A&labelColor=88AEAE)
+![OpenAI](https://img.shields.io/badge/OpenAI-9ADDD0?style=for-the-badge&logo=openai&logoColor=2E3A3A&labelColor=DEF6D6)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-83AFA7?style=for-the-badge&logoColor=2E3A3A&labelColor=AED3BE)
 
 ---
 
 ### ☁️ Cloud / DevOps  
-![AWS](https://img.shields.io/badge/AWS-A7C7E7?style=for-the-badge&logo=amazonaws&logoColor=1F4D4D&labelColor=BFDFFF)
-![Linux](https://img.shields.io/badge/Linux-BEE7C5?style=for-the-badge&logo=linux&logoColor=1F4D4D&labelColor=E8F5EC)
-![Nginx](https://img.shields.io/badge/Nginx-9ADDD0?style=for-the-badge&logo=nginx&logoColor=1F4D4D&labelColor=CFF5F0)
+![AWS](https://img.shields.io/badge/AWS-847C90?style=for-the-badge&logo=amazonaws&logoColor=2E3A3A&labelColor=AE98A8)
+![Linux](https://img.shields.io/badge/Linux-688C88?style=for-the-badge&logo=linux&logoColor=2E3A3A&labelColor=92AD9E)
+![Nginx](https://img.shields.io/badge/Nginx-658D8C?style=for-the-badge&logo=nginx&logoColor=2E3A3A&labelColor=8EB1A3)
 
 ---
 
