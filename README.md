@@ -1,80 +1,80 @@
-<h1 align="center">Hi, I'm Alanna Matundan 👋</h1>
+<h1 align="center">Hi, I'm Alanna Matundan 🐸💧</h1>
 
 <p align="center">
-💜 Computer Science Student @ UTSA <br>
-💙 Aspiring Software / Cloud Engineer <br>
-🫐 Web · AI · Interactive Systems
+🌿 Computer Science Student @ UTSA <br>
+💧 Aspiring Software / Cloud Engineer <br>
+🐸 Web · AI · Interactive Systems
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B0082">
+    <img src="https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=BFDFFF">
   </a>
   <a href="https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2">
-    <img src="https://img.shields.io/badge/Project%20Demos-6C63FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=4B0082">
+    <img src="https://img.shields.io/badge/Project%20Demos-A8E6CF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=BEE7C5">
   </a>
 </p>
 
 ---
 
-## 💜 About Me
+## 🌿 About Me
 
 I’m a Computer Science student passionate about building:
 
-🔮 Interactive web applications  
-🧿 AI-powered systems  
-💠 Structured database architectures  
-☂️ Cloud-deployed projects  
-🌀 Unity simulations & gameplay systems  
+💧 Interactive web applications  
+🐸 AI-powered systems  
+🌱 Structured database architectures  
+☁️ Cloud-deployed projects  
+🎮 Unity simulations & gameplay systems  
 
 🎥 **Full Project Demo Playlist:**  
 https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 
 ---
 
-## 💙 Tech Stack
+## 💧 Tech Stack
 
-### 🫐 Languages  
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white&labelColor=4B0082)
-![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4B0082)
-![TypeScript](https://img.shields.io/badge/TypeScript-6C63FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=4B0082)
-![Java](https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=4B0082)
-![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4B0082)
-
----
-
-### 💜 Frontend  
-![React](https://img.shields.io/badge/React-5B5FFF?style=for-the-badge&logo=react&logoColor=white&labelColor=312E81)
-![Vite](https://img.shields.io/badge/Vite-6C63FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=4B0082)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-7C7CFF?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=4338CA)
+### 🐸 Languages  
+![Python](https://img.shields.io/badge/Python-A7C7E7?style=for-the-badge&logo=python&logoColor=white&labelColor=BFDFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-A8E6CF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=BEE7C5)
+![TypeScript](https://img.shields.io/badge/TypeScript-BFDFFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=A7C7E7)
+![Java](https://img.shields.io/badge/Java-A8E6CF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=BEE7C5)
+![SQL](https://img.shields.io/badge/SQL-A7C7E7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=BFDFFF)
 
 ---
 
-### 💠 Backend / Data  
-![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=4B0082)
-![Supabase](https://img.shields.io/badge/Supabase-5B5FFF?style=for-the-badge&logo=supabase&logoColor=white&labelColor=312E81)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C7CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4338CA)
-![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4B0082)
+### 🌿 Frontend  
+![React](https://img.shields.io/badge/React-BFDFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=A7C7E7)
+![Vite](https://img.shields.io/badge/Vite-A8E6CF?style=for-the-badge&logo=vite&logoColor=white&labelColor=BEE7C5)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9ADDD0?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=A8E6CF)
 
 ---
 
-### 🔮 AI / ML  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-5B5FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=312E81)
-![OpenAI](https://img.shields.io/badge/OpenAI-6C63FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=4B0082)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-7C7CFF?style=for-the-badge&labelColor=4338CA)
+### 💧 Backend / Data  
+![Node.js](https://img.shields.io/badge/Node.js-A7C7E7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=BFDFFF)
+![Supabase](https://img.shields.io/badge/Supabase-A8E6CF?style=for-the-badge&logo=supabase&logoColor=white&labelColor=BEE7C5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BFDFFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=A7C7E7)
+![MySQL](https://img.shields.io/badge/MySQL-A8E6CF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=BEE7C5)
 
 ---
 
-### ☂️ Cloud / DevOps  
-![AWS](https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B0082)
-![Linux](https://img.shields.io/badge/Linux-5B5FFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=312E81)
-![Nginx](https://img.shields.io/badge/Nginx-7C7CFF?style=for-the-badge&logo=nginx&logoColor=white&labelColor=4338CA)
+### 🐸 AI / ML  
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-BFDFFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=A7C7E7)
+![OpenAI](https://img.shields.io/badge/OpenAI-A8E6CF?style=for-the-badge&logo=openai&logoColor=white&labelColor=BEE7C5)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-A7C7E7?style=for-the-badge&labelColor=BFDFFF)
 
 ---
 
-## 💜 Featured Projects
+### ☁️ Cloud / DevOps  
+![AWS](https://img.shields.io/badge/AWS-BFDFFF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=A7C7E7)
+![Linux](https://img.shields.io/badge/Linux-A8E6CF?style=for-the-badge&logo=linux&logoColor=white&labelColor=BEE7C5)
+![Nginx](https://img.shields.io/badge/Nginx-9ADDD0?style=for-the-badge&logo=nginx&logoColor=white&labelColor=A8E6CF)
 
-### 🔮 Hearts & Pages Bookstore
+---
+
+## 🌿 Featured Projects
+
+### 💧 Hearts & Pages Bookstore
 
 <table>
 <tr>
@@ -82,10 +82,10 @@ https://www.youtube.com/playlist?list=PLsnI7XE02XGirBJurErC7vBVSMnv-QNF2
 
 Full-stack e-commerce platform
 
-- React + Supabase  
-- Auth, cart, checkout system  
-- Admin dashboard  
-- Relational database design  
+🌿 React + Supabase  
+💧 Auth, cart, checkout system  
+🐸 Admin dashboard  
+🌱 Relational database design  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=Re56C-EuaT4
@@ -101,18 +101,18 @@ https://www.youtube.com/watch?v=Re56C-EuaT4
 
 ---
 
-### 🌀 Rivaldle – Web Guessing Game
+### 🐸 Rivaldle – Web Guessing Game
 
 <table>
 <tr>
 <td width="60%">
 
-Production AWS deployment
+Cloud-deployed web game
 
-- AWS EC2 + Route 53  
-- Multiple game modes  
-- Daily challenges  
-- 61k+ monthly users  
+☁️ AWS EC2 + Route 53  
+💧 Multiple game modes  
+🌿 Daily challenges  
+🐸 61k+ monthly users  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=TgRu_6LoCtQ
@@ -128,7 +128,7 @@ https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 ---
 
-### 🧿 AI Tech Interview Coach
+### 🌱 AI Tech Interview Coach
 
 <table>
 <tr>
@@ -136,10 +136,10 @@ https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 AI-powered interview preparation
 
-- OpenAI API integration  
-- Live voice interviews  
-- Streaming evaluation  
-- Modular TypeScript UI  
+🐸 OpenAI API integration  
+💧 Live voice interviews  
+🌿 Streaming evaluation  
+🌱 Modular TypeScript UI  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=JQwXc9wWWIs
@@ -155,7 +155,7 @@ https://www.youtube.com/watch?v=JQwXc9wWWIs
 
 ---
 
-### 💠 Cat Café Chaos (Unity)
+### 🎮 Cat Café Chaos (Unity)
 
 <table>
 <tr>
@@ -163,10 +163,10 @@ https://www.youtube.com/watch?v=JQwXc9wWWIs
 
 Stealth-chaos simulation
 
-- NPC AI state machines  
-- NavMesh pathfinding  
-- Chaos mechanics  
-- Event-driven gameplay  
+🐸 NPC AI state machines  
+💧 NavMesh pathfinding  
+🌿 Chaos mechanics  
+🌱 Event-driven gameplay  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=jvDDeLSpqqk
@@ -182,7 +182,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ---
 
-## 💙 GitHub Stats
+## 💧 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LovelyShades&show_icons=true&theme=tokyonight&hide_border=true" height="165">
@@ -195,16 +195,16 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ---
 
-## 💜 Beyond Coding
+## 🌿 Beyond Coding
 
-📺 YouTube Content Creator  
-🎥 40+ tutorials · 3.1M+ views · 14k+ subscribers  
+🎥 YouTube Content Creator  
+💧 40+ tutorials · 3.1M+ views · 14k+ subscribers  
 
 ---
 
-## 💙 Connect With Me
+## 💧 Connect With Me
 
 📍 New Braunfels, TX  
 📧 rosealanna18@gmail.com  
-🔗 https://linkedin.com/in/alanna-matundan  
-💻 https://github.com/LovelyShades
+🌿 https://linkedin.com/in/alanna-matundan  
+🐸 https://github.com/LovelyShades
