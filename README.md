@@ -200,7 +200,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
 <td width="35%" align="center" valign="middle">
-  <img src="https://github.com/user-attachments/assets/f221fc16-af57-4393-971e-a2a47b31e4b9" width="185">
+  <img src="https://github.com/user-attachments/assets/372a0669-08cf-4049-b805-2e592004bba8" width="400">
 </td>
 </tr>
 </table>
