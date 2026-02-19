@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Alanna Matundan 🐸💧</h1>
+<h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
 
 <p align="center">
-🌿 Computer Science Student @ UTSA <br>
+💻 Computer Science Student @ UTSA <br>
 ☁️ Aspiring Software / Cloud Engineer <br>
-💧 Web · AI · Interactive Systems
+🐸 Web · AI · Interactive Systems
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 💧 Tech Stack
+## 🖥️ Tech Stack
 
 ### 🐸 Languages  
 ![Python](https://img.shields.io/badge/Python-7FB0AA?style=for-the-badge&logo=python&logoColor=2E3A3A&labelColor=DEF6D6)
@@ -187,7 +187,8 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ---
 
-## ![CatGIF](https://github.com/user-attachments/assets/e8fe11f1-d14f-4001-97c6-68322bd73fa3)
+![CatComputerGIF](https://github.com/user-attachments/assets/2d2484e4-a905-4e42-b09b-d287ed58567f)
+
 ## Connect With Me
 
 
