@@ -186,10 +186,9 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ## 📱 Connect With Me!
 
-<!-- FULL-WIDTH TABLE + GIF HARD-RIGHT -->
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="60%" valign="middle">
 
 📍 <b>New Braunfels, TX</b><br><br>
 📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com</a><br><br>
@@ -197,12 +196,11 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 🐸 <a href="https://github.com/LovelyShades">GitHub</a>
 
 </td>
-<td width="40%" valign="middle" align="right">
-  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="100%">
+
+<td width="40%" valign="middle">
+
+<img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="100%">
+
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=180&section=footer"/>
-</p>
