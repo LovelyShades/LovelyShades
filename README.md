@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDFFF,100:A3CFC4&height=180&section=header&text=Hi,%20I'm%20Alanna%20Matundan&fontSize=35&fontColor=2E3A3A&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
 
