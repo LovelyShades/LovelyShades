@@ -35,7 +35,7 @@
 
 ---
 
-### 💧 Backend / Data  
+### 💻 Backend / Data  
 ![Node.js](https://img.shields.io/badge/Node.js-7FA9B2?style=for-the-badge&logo=nodedotjs&logoColor=2E3A3A&labelColor=BFDFFF)
 ![Supabase](https://img.shields.io/badge/Supabase-A3CFC4?style=for-the-badge&logo=supabase&logoColor=2E3A3A&labelColor=CFF5F0)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C2CFB7?style=for-the-badge&logo=postgresql&logoColor=2E3A3A&labelColor=E8F5EC)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🐸 AI / ML  
+### ⚙️ AI / ML  
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-7FA9B2?style=for-the-badge&logo=tensorflow&logoColor=2E3A3A&labelColor=BFDFFF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-AED3BE?style=for-the-badge&logo=openai&logoColor=2E3A3A&labelColor=DEF6D6)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-83AFA7?style=for-the-badge&logoColor=2E3A3A&labelColor=CFF5F0)
@@ -59,7 +59,7 @@
 
 ## 🌿 Featured Projects
 
-### 💧 Hearts & Pages Bookstore
+### 📖 Hearts & Pages Bookstore
 
 <table>
 <tr>
@@ -68,7 +68,7 @@
 Full-stack e-commerce platform
 
 🌿 React + Supabase  
-💧 Auth, cart, checkout system  
+⚙️ Auth, cart, checkout system  
 🐸 Admin dashboard  
 🌱 Relational database design  
 
@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=Re56C-EuaT4
 
 ---
 
-### 🐸 Rivaldle – Web Guessing Game
+### 💻 Rivaldle – Web Guessing Game
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=Re56C-EuaT4
 Cloud-deployed web game
 
 ☁️ AWS EC2 + Route 53  
-💧 Multiple game modes  
+🎮 Multiple game modes  
 🌿 Daily challenges  
 🐸 61k+ monthly users  
 
@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=TgRu_6LoCtQ
 
 ---
 
-### 🌱 AI Tech Interview Coach
+### 🎙️ AI Tech Interview Coach
 
 <table>
 <tr>
@@ -122,8 +122,8 @@ https://www.youtube.com/watch?v=TgRu_6LoCtQ
 AI-powered interview preparation
 
 🐸 OpenAI API integration  
-💧 Live voice interviews  
-🌿 Streaming evaluation  
+🎤 Live voice interviews  
+📷 Streaming evaluation  
 🌱 Modular TypeScript UI  
 
 🎥 **Watch Demo:**  
@@ -149,9 +149,9 @@ https://www.youtube.com/watch?v=JQwXc9wWWIs
 Stealth-chaos simulation
 
 🐸 NPC AI state machines  
-💧 NavMesh pathfinding  
-🌿 Chaos mechanics  
-🌱 Event-driven gameplay  
+👣 NavMesh pathfinding  
+⚙️ Chaos mechanics  
+🎮 Event-driven gameplay  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=jvDDeLSpqqk
@@ -167,7 +167,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ---
 
-## 💧 GitHub Stats
+## 🐈‍⬛ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LovelyShades&show_icons=true&theme=tokyonight&hide_border=true" height="165">
@@ -183,11 +183,13 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 ## 🌿 Beyond Coding
 
 🎥 YouTube Content Creator  
-💧 40+ tutorials · 3.1M+ views · 14k+ subscribers  
+⚙️ 40+ tutorials · 3.1M+ views · 14k+ subscribers  
 
 ---
 
-## 💧 Connect With Me
+## ![CatGIF](https://github.com/user-attachments/assets/e8fe11f1-d14f-4001-97c6-68322bd73fa3)
+## Connect With Me
+
 
 📍 New Braunfels, TX  
 📧 rosealanna18@gmail.com  
