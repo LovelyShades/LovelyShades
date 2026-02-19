@@ -189,7 +189,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 <!-- FULL-WIDTH TABLE + GIF HARD-RIGHT -->
 <table width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="60%">
 
 📍 <b>New Braunfels, TX</b><br><br>
 📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com</a><br><br>
