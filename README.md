@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/LovelyShades/LovelyShades/main/banner.png" width="100%" />
 </p>
 
 
