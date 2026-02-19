@@ -191,7 +191,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="100%" valign="middle">
 
 📍 <b>New Braunfels, TX</b><br><br>
 📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com</a><br><br>
@@ -200,10 +200,11 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
 <td width="35%" align="center" valign="middle">
-  <img src="https://github.com/user-attachments/assets/9e1a7db3-dca3-4922-8a0f-fe0845a28e56" width="400">
+  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="400">
 </td>
 </tr>
 </table>
+
 
 
 <p align="center">
