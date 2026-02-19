@@ -3,7 +3,7 @@
 </p>
 
 
-
+<!--
 <h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
 
 <p align="center">
@@ -11,6 +11,7 @@
 ☁️ Aspiring Software / Cloud Engineer <br>
 🐸 Web · AI · Interactive Systems
 </p>
+-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alanna-matundan">
