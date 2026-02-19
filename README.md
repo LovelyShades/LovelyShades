@@ -199,8 +199,12 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 <td width="40%" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="100%">
+<div style="width:100%; aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
+  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f"
+       width="100%" style="object-fit:cover;">
+</div>
 
 </td>
 </tr>
 </table>
+
