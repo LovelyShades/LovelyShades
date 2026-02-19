@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LovelyShades/LovelyShades/main/banner.png" width="100%" />
+  <img src="./banner.png" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
