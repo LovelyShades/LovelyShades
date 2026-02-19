@@ -2,6 +2,7 @@
   <img src="./banner.png" width="100%" />
 </p>
 
+<!-- Optional header block (kept commented, clean) -->
 <!--
 <h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
 
@@ -21,8 +22,9 @@
   </a>
 </p>
 
+<!-- GLOWING DIVIDER (consistent: always gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=3&section=header&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=4"/>
 </p>
 
 ## 🖥️ Tech Stack
@@ -34,10 +36,14 @@
 ![Java](https://img.shields.io/badge/Java-C2CFB7?style=for-the-badge&logo=openjdk&logoColor=2E3A3A&labelColor=E8F5EC)
 ![SQL](https://img.shields.io/badge/SQL-83AFA7?style=for-the-badge&logo=postgresql&logoColor=2E3A3A&labelColor=CFF5F0)
 
+<br>
+
 ### 🌿 Frontend  
 ![React](https://img.shields.io/badge/React-BFDFFF?style=for-the-badge&logo=react&logoColor=2E3A3A&labelColor=EAF6FF)
 ![Vite](https://img.shields.io/badge/Vite-AED3BE?style=for-the-badge&logo=vite&logoColor=2E3A3A&labelColor=DEF6D6)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-83AFA7?style=for-the-badge&logo=tailwind-css&logoColor=2E3A3A&labelColor=CFF5F0)
+
+<br>
 
 ### 💻 Backend / Data  
 ![Node.js](https://img.shields.io/badge/Node.js-7FA9B2?style=for-the-badge&logo=nodedotjs&logoColor=2E3A3A&labelColor=BFDFFF)
@@ -45,18 +51,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C2CFB7?style=for-the-badge&logo=postgresql&logoColor=2E3A3A&labelColor=E8F5EC)
 ![MySQL](https://img.shields.io/badge/MySQL-AED3BE?style=for-the-badge&logo=mysql&logoColor=2E3A3A&labelColor=DEF6D6)
 
+<br>
+
 ### ⚙️ AI / ML  
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-7FA9B2?style=for-the-badge&logo=tensorflow&logoColor=2E3A3A&labelColor=BFDFFF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-AED3BE?style=for-the-badge&logo=openai&logoColor=2E3A3A&labelColor=DEF6D6)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-83AFA7?style=for-the-badge&logoColor=2E3A3A&labelColor=CFF5F0)
+
+<br>
 
 ### ☁️ Cloud / DevOps  
 ![AWS](https://img.shields.io/badge/AWS-847C90?style=for-the-badge&logo=amazonaws&logoColor=2E3A3A&labelColor=AE98A8)
 ![Linux](https://img.shields.io/badge/Linux-C2CFB7?style=for-the-badge&logo=linux&logoColor=2E3A3A&labelColor=E8F5EC)
 ![Nginx](https://img.shields.io/badge/Nginx-7FA9B2?style=for-the-badge&logo=nginx&logoColor=2E3A3A&labelColor=BFDFFF)
 
+<!-- GLOWING DIVIDER (same style) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A3CFC4,100:7FA9B2&height=3&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A3CFC4,100:7FA9B2&height=4"/>
 </p>
 
 ## 🌿 Featured Projects
@@ -167,8 +178,9 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 </tr>
 </table>
 
+<!-- GLOWING DIVIDER (same style) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=3&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=4"/>
 </p>
 
 ## 🐈‍⬛ GitHub Stats
@@ -188,6 +200,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 ## 📱 Connect With Me!
 
+<!-- Match project-box sizing + push GIF to FAR RIGHT -->
 <table>
 <tr>
 <td width="60%" valign="middle">
@@ -198,12 +211,14 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 🐸 <a href="https://github.com/LovelyShades">GitHub</a>
 
 </td>
-<td width="40%" align="center" valign="middle">
+
+<td width="40%" align="right" valign="middle">
   <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="185">
 </td>
 </tr>
 </table>
 
+<!-- Footer wave (glowing + consistent) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=180&section=footer&width=2000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=180&section=footer"/>
 </p>
