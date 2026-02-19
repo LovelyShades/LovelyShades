@@ -2,7 +2,6 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-
 <!--
 <h1 align="center">Hi, I'm Alanna Matundan 🌿</h1>
 
@@ -23,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=3&section=header&width=1000"/>
 </p>
 
 ## 🖥️ Tech Stack
@@ -57,7 +56,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-7FA9B2?style=for-the-badge&logo=nginx&logoColor=2E3A3A&labelColor=BFDFFF)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A3CFC4,100:7FA9B2&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A3CFC4,100:7FA9B2&height=3&width=1000"/>
 </p>
 
 ## 🌿 Featured Projects
@@ -169,7 +168,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFDFFF,100:A3CFC4&height=3&width=1000"/>
 </p>
 
 ## 🐈‍⬛ GitHub Stats
@@ -191,7 +190,7 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 <table>
 <tr>
-<td width="100%" valign="middle">
+<td width="60%" valign="middle">
 
 📍 <b>New Braunfels, TX</b><br><br>
 📧 <a href="mailto:rosealanna18@gmail.com">rosealanna18@gmail.com</a><br><br>
@@ -199,14 +198,12 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 🐸 <a href="https://github.com/LovelyShades">GitHub</a>
 
 </td>
-<td width="100%" align="center" valign="middle">
-  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="100">
+<td width="40%" align="center" valign="middle">
+  <img src="https://github.com/user-attachments/assets/820d26b8-74b7-4a67-baa9-61f79c784b7f" width="185">
 </td>
 </tr>
 </table>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=180&section=footer&width=2000"/>
 </p>
