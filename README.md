@@ -200,10 +200,11 @@ https://www.youtube.com/watch?v=jvDDeLSpqqk
 
 </td>
 <td width="35%" align="center" valign="middle">
-  <img src="https://github.com/user-attachments/assets/2d2484e4-a905-4e42-b09b-d287ed58567f" width="185">
+  <img src="https://github.com/user-attachments/assets/f221fc16-af57-4393-971e-a2a47b31e4b9" width="185">
 </td>
 </tr>
 </table>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA9B2,100:A3CFC4&height=110&section=footer"/>
