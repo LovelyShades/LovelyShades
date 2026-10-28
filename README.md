@@ -128,7 +128,7 @@ Cloud-deployed web game
 ☁️ AWS EC2 + Route 53  
 🎮 Multiple game modes  
 🌿 Daily challenges  
-🐸 61k+ monthly users  
+🐸 81k+ active users (past year)  
 
 🎥 **Watch Demo:**  
 https://www.youtube.com/watch?v=TgRu_6LoCtQ
