@@ -30,6 +30,7 @@
 ![React](https://img.shields.io/badge/React-BFDFFF?style=for-the-badge&logo=react&logoColor=2E3A3A&labelColor=EAF6FF)
 ![Vite](https://img.shields.io/badge/Vite-AED3BE?style=for-the-badge&logo=vite&logoColor=2E3A3A&labelColor=DEF6D6)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-83AFA7?style=for-the-badge&logo=tailwind-css&logoColor=2E3A3A&labelColor=CFF5F0)
+![PixiJS](https://img.shields.io/badge/PixiJS-7FA9B2?style=for-the-badge&logoColor=2E3A3A&labelColor=BFDFFF)
 
 <br>
 
@@ -133,6 +134,36 @@ https://www.youtube.com/watch?v=JQwXc9wWWIs
 <td width="40%" align="center" valign="middle">
   <a href="https://www.youtube.com/watch?v=JQwXc9wWWIs">
     <img src="https://img.youtube.com/vi/JQwXc9wWWIs/hqdefault.jpg" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+### 🌙 Familiar Grove – Incremental Game
+
+<table width="100%">
+<tr>
+<td width="60%">
+
+Cozy dark-fantasy idle game with original pixel art
+
+🌿 React + TypeScript + PixiJS  
+✨ Layered parallax scene & living familiars  
+🐸 Rarity-based summoning & Bestiary  
+⚙️ Versioned saves, offline earnings, CI tests  
+
+🎥 **Watch Demo:**  
+https://youtu.be/N1hPtyzu6Qc
+
+🎮 **Play It:**  
+https://lovelyshades.github.io/familiar-grove/
+
+</td>
+<td width="40%" align="center" valign="middle">
+  <a href="https://youtu.be/N1hPtyzu6Qc">
+    <img src="https://img.youtube.com/vi/N1hPtyzu6Qc/hqdefault.jpg" width="100%">
   </a>
 </td>
 </tr>
