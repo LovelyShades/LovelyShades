@@ -60,6 +60,36 @@
 
 ## 🌿 Featured Projects
 
+### 🍔 CrewSharp – Crew Training SaaS
+
+<table width="100%">
+<tr>
+<td width="60%">
+
+Multi-tenant training & evaluation platform for restaurant crews
+
+🌿 React + TypeScript + Supabase  
+🔐 Row-level security, 300+ live attack-sim probes  
+💳 Stripe subscriptions & per-store billing  
+⚙️ 1,250+ unit tests, CI, pre-push security gate  
+🏪 Live in production with its first store  
+
+🌐 **Visit:**  
+https://crewsharp.com
+
+🔒 *Private repo (commercial product): code available on request*
+
+</td>
+<td width="40%" align="center" valign="middle">
+  <a href="https://crewsharp.com">
+    <img src="./crewsharp.png" width="100%">
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
 ### 📖 Hearts & Pages Bookstore
 
 <table width="100%">
